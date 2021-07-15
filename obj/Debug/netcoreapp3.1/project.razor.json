@@ -14437,6 +14437,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\cwjjing\\cwjjinggitpractice\\Views\\fdsfds.cshtml",
+      "TargetPath": "Views\\fdsfds.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\cwjjing\\cwjjinggitpractice\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
