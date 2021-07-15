@@ -13,7 +13,8 @@ target/
 *.war
 *.ear
 *.db
-      
+*.cshtml
+
 # Eclipse #
 .project
 .metadata

@@ -14417,6 +14417,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\cwjjing\\cwjjinggitpractice\\Views\\eeeee.cshtml",
+      "TargetPath": "Views\\eeeee.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\cwjjing\\cwjjinggitpractice\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
